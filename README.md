@@ -21,6 +21,8 @@ It brings video generation, interactive worlds, 3D/4D reconstruction, and embodi
 
 ![WorldFoundry institutional partners](logos-institutions.png)
 
+WorldFoundry enables reproducible inference and evaluation of generative world models across video, 3D/4D, embodied action, and interactive systems.
+
 ## 📰 News
 
 - **[2026-11-10]** 🔥 **The WorldFoundry technical report is now available on [arXiv](https://arxiv.org/abs/2611.10771)!** We welcome your support with a GitHub Star and a [Hugging Face Upvote](https://huggingface.co/papers/2611.10771). Thank you for your support!
