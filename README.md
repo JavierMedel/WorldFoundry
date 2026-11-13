@@ -11,7 +11,11 @@
 WorldFoundry is an open-source framework for world-model inference and evaluation.
 It brings video generation, interactive worlds, 3D/4D reconstruction, and embodied action into a shared workflow.
 
-![WorldFoundry teaser](docs/fumadocs/public/teaser.png)
+<video src="teaser.mp4" controls autoplay loop muted playsinline width="100%">
+  Your browser does not support the video tag.
+</video>
+
+![WorldFoundry institutional partners](logos-institutions.png)
 
 ## 📰 News
 
