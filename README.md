@@ -13,6 +13,8 @@ It brings video generation, interactive worlds, 3D/4D reconstruction, and embodi
 
 ![WorldFoundry teaser](docs/fumadocs/public/teaser.png)
 
+<br>
+
 <video src="teaser.mp4" controls autoplay loop muted playsinline width="100%">
   Your browser does not support the video tag.
 </video>
