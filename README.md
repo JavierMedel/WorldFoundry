@@ -23,6 +23,13 @@ It brings video generation, interactive worlds, 3D/4D reconstruction, and embodi
 
 WorldFoundry enables reproducible inference and evaluation of generative world models across video, 3D/4D, embodied action, and interactive systems.
 
+## Highlights
+
+- **Model and benchmark catalogs** — discover models, checkpoint sources, runtime requirements, and benchmark protocols.
+- **Unified inference** — run in-tree pipelines through the CLI, terminal UI, or browser-based Studio.
+- **Artifact inspection** — review job status, generated media, and geometry through Studio and its visualizers.
+- **Benchmark evaluation** — run model × benchmark cells and inspect normalized metrics, readiness, and eligibility scorecards.
+
 ## 📰 News
 
 - **[2026-11-10]** 🔥 **The WorldFoundry technical report is now available on [arXiv](https://arxiv.org/abs/2611.10771)!** We welcome your support with a GitHub Star and a [Hugging Face Upvote](https://huggingface.co/papers/2611.10771). Thank you for your support!
@@ -66,13 +73,6 @@ Join the **WorldFoundry Community** on Slack, [Discord](https://discord.gg/ybUQM
   <em>Groups 1 and 2 are full. Scan the Group 3 QR code to join.<br>
   QR codes are updated periodically if they expire.</em>
 </p>
-
-## Highlights
-
-- **Model and benchmark catalogs** — discover models, checkpoint sources, runtime requirements, and benchmark protocols.
-- **Unified inference** — run in-tree pipelines through the CLI, terminal UI, or browser-based Studio.
-- **Artifact inspection** — review job status, generated media, and geometry through Studio and its visualizers.
-- **Benchmark evaluation** — run model × benchmark cells and inspect normalized metrics, readiness, and eligibility scorecards.
 
 ## System Requirements
 
